@@ -2414,7 +2414,7 @@ fraser:
   - 185.199.111.153
 fraud: # echo@hackclub.com U080A3QP42C
   type: CNAME
-  value: 4ba1d516ffa9aa93.vercel-dns-017.com.
+  value: 69e6505e4a79fd43.vercel-dns-016.com.
 '*.fraud':  # neon - neon@hackclub.com
   type: CNAME
   value: a.selfhosted.hackclub.com.
