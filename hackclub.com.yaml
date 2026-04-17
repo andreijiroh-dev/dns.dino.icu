@@ -330,6 +330,7 @@ _vercel:
   - vc-domain-verify=hacktheoctober.hackclub.com,398820f3528f76722590
   - vc-domain-verify=hacky-holidays.hackclub.com,c8f8c52c1790e239650e
   - vc-domain-verify=hackyholidays.hackclub.com,dcb0e995448d8cfaae37
+  - vc-domain-verify=help.hackclub.com,4336dc28725e50b471c2 
   - vc-domain-verify=hersey.hackclub.com,cc9535e7b0f931982d6e
   - vc-domain-verify=ihs.hackclub.com,21e13c0c6af87766f6f5
   - vc-domain-verify=illumination.hackclub.com,8fee6443457bb70fcb81
@@ -3039,6 +3040,10 @@ helm:
 - ttl: 300
   type: CNAME
   value: helm-bgh.pages.dev.
+help: # U096RMRG03G -- for #help channel in slack
+- ttl: 300
+  type: CNAME
+  value: 52e850f2c2846eae.vercel-dns-017.com.
 hermes:
   ttl: 300
   type: CNAME
