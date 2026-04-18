@@ -3925,10 +3925,6 @@ olympics:
 - ttl: 300
   type: CNAME
   value: e65532a7e0d6bba4.vercel-dns-016.com.
-omay:
-- ttl: 300
-  type: CNAME
-  value: omay.dev.
 onboard:
 - ttl: 300
   type: CNAME
