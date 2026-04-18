@@ -3340,10 +3340,6 @@ _github-pages-challenge-kerala-hackclub.kerala:
 - ttl: 300
   type: TXT
   value: f39cf4bf21f2e8087c97294b2944e4
-keys:
-- ttl: 300
-  type: CNAME
-  value: hackclub.myftp.biz.
 kiit:
 - ttl: 300
   type: CNAME
@@ -5456,20 +5452,6 @@ tickets:
 - ttl: 300
   type: CNAME
   value: cname.vercel-dns.com.
-tilde:
-- ttl: 300
-  type: CNAME
-  value: hackclub.myftp.biz.
-bunyan.tilde:
-- ttl: 300
-  type: CNAME
-  value: hackclub.myftp.biz.
-mail.tilde:
-- ttl: 300
-  type: MX
-  values:
-  - exchange: tilde.hackclub.com.
-    preference: 10
 tile:
 - octodns:
     cloudflare:
