@@ -1733,13 +1733,6 @@ customizer:
 - ttl: 300
   type: CNAME
   value: jasonappah.github.io.
-cvhs:
-- octodns:
-    cloudflare:
-      proxied: false
-  ttl: 300
-  type: A
-  value: 192.168.1.1
 dashboard:
 - octodns:
     cloudflare:
