@@ -775,6 +775,11 @@ numycode: # numycode@pyroforge.dev U0A6U9MEA5D
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # use this as an example for your own domain!
 
+offset: # for upcoming #offset ysws -> U0828RTU7FE
+  ttl: 600
+  type: CNAME
+  value: 17sdheeraj.github.io.
+
 onekey: # @maxstellar on slack [U07F6FMJ97U], @maxstellar on github
   ttl: 600
   type: CNAME
