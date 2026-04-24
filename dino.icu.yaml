@@ -810,11 +810,7 @@ orpheus: # prophet orpheus's page (when making your page enter your github usern
 osu: # nightfall/dainfloop: contact via slack @nightfall [U07KVMBHH4L]
 - ttl: 300
   type: A
-  value: 37.27.51.34
-
-- ttl: 300
-  type: AAAA
-  value: 2a01:4f9:3081:399c::4
+  value: 65.108.74.29
 
 - ttl: 600
   type: TXT
