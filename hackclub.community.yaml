@@ -4,6 +4,7 @@ _vercel:
   type: TXT
   values:
   - vc-domain-verify=stargazing.hackclub.community,6c036f41dd5fb04c3d06
+  - vc-domain-verify=labs.hackclub.community,26555f7a32c65e2aef34
 # Alumni Society (https://github.com/hackclub-alumni/meta/issues/1)
 # Records are primarily managed by @ajhalili2006 (U07CAPBB9B5), although other alums
 # can manage them by coordinating at #alums channel or https://github.com/hackclub-alumni/meta.
@@ -107,6 +108,10 @@ knot: # ajhalili2006@crew.recaptime.dev U07CAPBB9B5
 - ttl: 300
   type: CNAME
   value: proxyparty.recaptime.dev.
+labs: # theawesomeaj.dev@gmail.com U092329JX89
+- ttl: 600
+  type: CNAME
+  value: 7b512cdc191b476c.vercel-dns-017.com.
 n8n: # U07AGEVSTD2
 - ttl: 600
   type: CNAME
