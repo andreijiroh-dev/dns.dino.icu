@@ -1,9 +1,4 @@
 ---
-# Hack Club Community PDS default handle suffix - https://github.com/hackclub-community/atproto-pds
-"*.bsky": # U07CAPBB9B5 andreijiroh@alumni.hackclub.community 
-- ttl: 300
-  type: CNAME
-  value: ajhalili2006.hackclub.app.
 _vercel:
 - ttl: 300
   type: TXT
@@ -96,6 +91,16 @@ aus: # benjamin.graetz@henleyhs.sa.edu.au U0828CN2BL4
 - ttl: 600
   type: A
   value: 35.158.87.123
+# Hack Club Community PDS default handle suffix base - https://github.com/hackclub-community/atproto-pds
+bsky: # U07CAPBB9B5 andreijiroh@alumni.hackclub.community
+- ttl: 600
+  type: CNAME
+  value: ajhalili2006.hackclub.app.
+# Hack Club Community PDS default handle suffix - https://github.com/hackclub-community/atproto-pds
+"*.bsky": # U07CAPBB9B5 andreijiroh@alumni.hackclub.community
+- ttl: 300
+  type: CNAME
+  value: ajhalili2006.hackclub.app.
 create-mc: # grayson@vantilborg.ca U092DA495UY # This is for a create minecraft server, see channel C0AD3QV5C5D
 - ttl: 600
   type: A
