@@ -127,7 +127,7 @@ n8n: # U07AGEVSTD2
   type: CNAME
   value: felix1.hackclub.app.
 # Hack Club Community PDS server - https://github.com/hackclub-community/atproto-pds
-pds: # U07CAPBB9B5 andreijiroh@alumni.hackclub.community 
+pds: # U07CAPBB9B5 andreijiroh@alumni.hackclub.community
 - ttl: 600
   type: CNAME
   value: ajhalili2006.hackclub.app.
