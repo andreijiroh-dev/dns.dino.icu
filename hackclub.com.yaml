@@ -5476,7 +5476,7 @@ stickers: #euan@hackclub.com U06T30DNB3L
     cloudflare:
       proxied: true
   type: CNAME
-  value: a.selfhosted.hackclub.com.
+  value: ingress.lfdl.ink.
 storyboard:
 - octodns:
     cloudflare:
