@@ -1886,9 +1886,9 @@ docs: # leo@hackclub.com U07BLJ1MBEE
   value: 4fc2e0847f-hosting.gitbook.io.
 - type: CAA
   values:
-    - flags: 0
-      tag: issue
-      value: pki.goog
+  - flags: 0
+    tag: issue
+    value: pki.goog
 donbosco:
   ttl: 300
   type: CNAME
@@ -2416,6 +2416,9 @@ fraud: # echo@hackclub.com U080A3QP42C
       proxied: true
   type: CNAME
   value: b.selfhosted.hackclub.com.
+joe.fraud: # echo@hackclub.com U080A3QP42C
+  type: CNAME
+  value: 55a48a5698e9fc28.vercel-dns-016.com.
 fremont:
 - ttl: 300
   type: CNAME
