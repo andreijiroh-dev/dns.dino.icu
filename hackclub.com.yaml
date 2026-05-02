@@ -1155,7 +1155,7 @@ bubble: # jared@hackclub.com U07HEH4N8UV
 bucky:
 - octodns:
     cloudflare:
-      proxied: true
+      proxied: false
   ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
