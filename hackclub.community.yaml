@@ -53,7 +53,7 @@ uberspace2._domainkey.alumni: # U07CAPBB9B5 andreijiroh@alumni.hackclub.communit
   ttl: 600
   type: CNAME
   value: dkim2.uberspace.de.
-# GitHub organization domain verificiation
+# GitHub organization domain verification
 _gh-hackclub-alumni-o.alumni: # U07CAPBB9B5 andreijiroh@alumni.hackclub.community https://github.com/hackclub-alumni/meta
 - ttl: 600
   type: TXT
@@ -68,7 +68,7 @@ _gitlab-pages-verification-code.alumni: # U07CAPBB9B5 andreijiroh@alumni.hackclu
   value: "gitlab-pages-verification-code=6084339db0c4e86155d8df639b6662d4"
 # GH Pages domain verification to prevent domain takeovers if we do
 # wildcard CNAME records at *.alumni.hackclub.community
-blog.alumni: # ajhalili2006@andreijiroh.dev U07CAPBB9B5 https://andreijiroh.dev/contact
+blog.alumni: # U07CAPBB9B5 andreijiroh@alumni.hackclub.community https://github.com/hackclub-alumni/meta
 - ttl: 600
   type: CNAME
   value: 731fb7077db63b1d.vercel-dns-016.com.
